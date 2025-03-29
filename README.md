@@ -27,7 +27,7 @@
 ### Peer Review
 
 
-**Reviewer:** 
+**Reviewer:** Brock Spacek
  
 
-**Reviewer Notes:** 
+**Reviewer Notes:** The Site overall looks pretty great and the functionality is getting close to being completed. I liked how you had seperate layouts for all your individual data pieces. A couple notes on it though is that the favorites button is hard for users to tell thats what it is. It does not have any hover or change color/fill in when clicked. I would maybe add some sort of change so that its easy to tell. The responsiveness overall is decent but on a few of your breakpoints, some of the text bleeds over and creates a lot of black space that breaks the rest of the screen and looks really off but should be a simple fix. Final possible issue is that a user can't search up 001 when looking for an ID. Just some users might want to do that when searching them up but that might just be preference. With a few changes and tweaks your site should be fully functioning and look really good!
